@@ -17,7 +17,7 @@ inseridos no vetor de saída.
 clientes e número de clientes cadastrados e, em seguida, encontra o maior e o menor valor de renda.
 Como parâmetro de saída, a função deve retornar para a função main os índices do vetor onde encontrou
 a maior e menor renda de todo o grupo de clientes.
-4. Exibe_Nomes: usada para apresentar na tela de saída o vetor gerado no item b (função
+4. Exibe_Nomes: usada para apresentar na tela de saída o vetor gerado no item 2 (função
 Renda_Superior_5000).
 
 ## Exemplificação de parâmetros para cada função solicitada
